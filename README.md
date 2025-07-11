@@ -1,6 +1,8 @@
 # Learning Python and Artificial Intelligence 🧠🐍
 
-This repository is where I practice and learn basic concepts of **Python** and **Artificial Intelligence**. I'm uploading small projects, exercises, and experiments as I study and explore.
+> ⚠️ **Disclaimer:** This is a **personal** learning repository — nothing here is professional, organized, or final. It's a messy space where I practice and experiment while I learn. You're welcome to explore, but don't expect polished code or perfect structure.
+
+This repo is where I practice and learn the basics of **Python** and **Artificial Intelligence**. I'm uploading small projects, exercises, and experiments as I study and explore on my own.
 
 ## What's inside?
 
@@ -12,16 +14,16 @@ This repository is where I practice and learn basic concepts of **Python** and *
   - `pandas`
   - `matplotlib`
   - `scikit-learn`
-  - `tensorflow` (very basic)
+  - `tensorflow` (just the basics)
 - Basic AI model experiments
 
 ## Goal
 
-📌 My goal with this repo is to improve my programming skills and gradually understand how AI models work.
+📌 My goal with this repo is to improve my programming skills and gradually understand how AI models work from scratch.
 
 ## Status
 
-🚧 Constantly learning. This repo will keep growing as I learn more.
+🚧 Still learning — expect changes, experiments, and messy code. This repo will keep growing as I go.
 
 ---
 
